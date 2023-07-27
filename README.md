@@ -1,4 +1,4 @@
-# Go Commons Libs
+# Go Commons Libs Autor Isael Sousa
 
 ## Objetivo do Projeto
 
@@ -10,6 +10,6 @@ Através do GO MOD você vai adicionar esse projeto como uma biblioteca do seu p
 
 ```bash
 
-$ go get github.com/faelp22/go-commons-libs
+$ go get github.com/KatanaSoftwareHope/go-commons-libs
 
 ```

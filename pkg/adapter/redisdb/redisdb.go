@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/faelp22/go-commons-libs/core/config"
+	"github.com/KatanaSoftwareHope/go-commons-libs/core/config"
 	"github.com/go-redis/redis/v8"
 )
 

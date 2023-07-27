@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/gorilla/mux"
+	"github.com/go-chi/chi/v5"
 	// "github.com/rs/cors"
 )
 
-func New(r *mux.Router, port string) *http.Server {
+func New(r chi.Router, port string) *http.Server {
 
 	// handler := cors.Default().Handler(r)
 	// handler := cors.AllowAll().Handler(r)

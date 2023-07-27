@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/faelp22/go-commons-libs/core/config"
+	"github.com/KatanaSoftwareHope/go-commons-libs/core/config"
 
 	amqp "github.com/rabbitmq/amqp091-go"
 )

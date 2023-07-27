@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/faelp22/go-commons-libs/core/config"
+	"github.com/KatanaSoftwareHope/go-commons-libs/core/config"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
